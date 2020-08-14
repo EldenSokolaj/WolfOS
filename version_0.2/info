@@ -1,0 +1,7 @@
+main: boot and kernel files
+lib:  all librarys
+info: info about wolf OS
+src:  external files called by kernel
+
+currently something is wrong with the IDT so it will boot then crash and restart in a loop
+please try on a VM just in case
