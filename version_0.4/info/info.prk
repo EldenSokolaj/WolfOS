@@ -1,0 +1,11 @@
+/* https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel */
+/* https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M&index=1 */
+// started using the url[0] other code based of url[1]
+
+main: boot and kernel files
+lib:  all librarys
+info: info about wolf OS
+src:  external files called by kernel
+
+? NOTES / WARNINGS ?
+intterruptstubs function nameing system may not work
