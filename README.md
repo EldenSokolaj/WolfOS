@@ -5,4 +5,4 @@ Currently the latest working (non crashing) version is 0.4 and the current in pr
 
 Although in reality most versions appear to be exactly the same, they are not.
 
-That being said though I would be more than open to suggestions or contributions, for now mainly towards getting keyboard input
+That being said though I would be more than open to suggestions or contributions, for now mainly towards the GDT and IDT
